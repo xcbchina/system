@@ -9,12 +9,12 @@ const config = {
   title: 'My XCB',
   tagline: 'Dinosaurs are cool',
   url: 'https://xcbchina.github.io',
-  baseUrl: '/xcb/',
+  baseUrl: '/system/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'xcbchina', // Usually your GitHub org/user name.
-  projectName: 'xcb', // Usually your repo name.
+  projectName: 'system', // Usually your repo name.
 
   presets: [
     [
