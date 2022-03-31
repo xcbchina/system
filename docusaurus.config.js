@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'system',
+  title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://xcbchina.github.io,
-  baseUrl: '/system',
+  url: 'https://xcbchina.github.io',
+  baseUrl: '/system/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
