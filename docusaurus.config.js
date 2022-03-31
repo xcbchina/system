@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'My XCB',
   tagline: 'Dinosaurs are cool',
   url: 'https://xcbchina.github.io',
-  baseUrl: '/system/',
+  baseUrl: '/xcb/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'system', // Usually your GitHub org/user name.
-  projectName: 'system', // Usually your repo name.
+  organizationName: 'xcbchina', // Usually your GitHub org/user name.
+  projectName: 'xcb', // Usually your repo name.
 
   presets: [
     [
